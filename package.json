@@ -1,0 +1,24 @@
+{
+  "name": "bugarena2",
+  "version": "0.1.0",
+  "description": "Survival game of some evolving bugs",
+  "main": "index.js",
+  "scripts": {
+    "build": "webpack --config webpack.production.config.js",
+    "dev": "webpack-dev-server --config webpack.dev.config.js --hot",     
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tandar/bugarena2.git"
+  },
+  "author": "Bata Jozsef",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tandar/bugarena2/issues"
+  },
+  "homepage": "https://github.com/tandar/bugarena2#readme",
+  "devDependencies":{
+    
+  }
+}
