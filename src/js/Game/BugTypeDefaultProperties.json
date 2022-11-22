@@ -1,0 +1,35 @@
+{
+  "simplebug": {
+    "intelligence": 20,
+    "turnSpeed": 30,
+    "speed": 18,
+    "agressiveness": 5,
+    "firstReproductionTime": 30,
+    "reproductionTimeCycle": 30,
+    "viewRadius": 30,
+    "startBody": 24,
+    "childsPerBear": 30
+  },
+  "runnerbug": {
+    "intelligence": 15,
+    "turnSpeed": 40,
+    "speed": 35,
+    "agressiveness": 15,
+    "firstReproductionTime": 65,
+    "reproductionTimeCycle": 40,
+    "viewRadius": 30,
+    "startBody": 30,
+    "childsPerBear": 10
+  },
+  "killerbug": {
+    "intelligence": 20,
+    "turnSpeed": 20,
+    "speed": 25,
+    "agressiveness": 50,
+    "firstReproductionTime": 100,
+    "reproductionTimeCycle": 65,
+    "viewRadius": 100,
+    "startBody": 50,
+    "childsPerBear": 3
+  }
+}
